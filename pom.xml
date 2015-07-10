@@ -5,7 +5,7 @@
   <artifactId>jradius</artifactId>
   <packaging>pom</packaging>
   <name>${project.artifactId}-${project.version}</name>
-  <version>1.1.5-SNAPSHOT</version>
+  <version>1.1.5</version>
   <description>JRadius Client/Server Project</description>
   <url>http://www.coova.org/JRadius</url>
 
@@ -127,17 +127,21 @@
   <modules>
     <module>core</module>
     <module>dictionary</module>
+<!--
     <module>dictionary-min</module>
     <module>extended</module>
     <module>extras</module>
     <module>example</module>
     <module>apps</module>
     <module>client</module>
+-->
 <!--
     <module>applet</module>
     <module>ssl</module>
 -->
+<!--
     <module>server</module>
+-->
   </modules>
 
   <repositories>
