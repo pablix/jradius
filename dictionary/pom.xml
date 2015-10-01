@@ -4,7 +4,7 @@
   <groupId>net.jradius</groupId>
   <artifactId>jradius-dictionary-mc</artifactId>
   <name>${project.artifactId}-${project.version}</name>
-  <version>1.1.5</version>
+  <version>1.1.6</version>
   <description>JRadius Dictionary</description>
   
   <parent>
